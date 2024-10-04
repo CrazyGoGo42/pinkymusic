@@ -1,2 +1,3 @@
-# ClickyMusic
+# PinkyMusic
+
 A simple DiscordMusicBot with reactionbuttons.
